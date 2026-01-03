@@ -1,0 +1,8 @@
+{
+  "name": "aurora-ai",
+  "version": "1.0.0",
+  "description": "Aurora - AI Chatbot Application",
+  "main": "index.html",
+  "author": "User",
+  "license": "MIT"
+}
